@@ -1,0 +1,29 @@
+body   {
+    background-color: antiquewhite;
+}
+
+h1      {
+    background-color: aqua; 
+    border: solid rebeccapurple;
+    padding: 10px;
+    margin-right: 80%;
+    text-align: center;
+}
+
+h2      {
+    background-color:aquamarine; 
+    border: ridge cadetblue;
+    padding: 10px;
+    margin-right: 75%;
+    text-align: center;
+    color:royalblue;
+}
+
+h3      {
+    background-color:coral; 
+    border: dashed cornsilk;
+    padding: 10px;
+    margin-right: 75%;
+    text-align: center;
+    color:whitesmoke;
+}
