@@ -3,7 +3,7 @@ body   {
 }
 
 h1      {
-    background-color: aqua; 
+    background-color: burlywood; 
     border: solid rebeccapurple;
     padding: 10px;
     margin-right: 80%;
@@ -20,7 +20,7 @@ h2      {
 }
 
 h3      {
-    background-color:coral; 
+    background-color:crimson ; 
     border: dashed cornsilk;
     padding: 10px;
     margin-right: 75%;
