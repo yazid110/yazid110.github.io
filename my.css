@@ -6,7 +6,7 @@ h1      {
     background-color: burlywood; 
     border: solid rebeccapurple;
     padding: 10px;
-    margin-right: 80%;
+    margin-right: 60%;
     text-align: center;
 }
 
@@ -14,7 +14,7 @@ h2      {
     background-color:aquamarine; 
     border: ridge cadetblue;
     padding: 10px;
-    margin-right: 75%;
+    margin-right: 60%;
     text-align: center;
     color:royalblue;
 }
@@ -23,7 +23,7 @@ h3      {
     background-color:crimson ; 
     border: dashed cornsilk;
     padding: 10px;
-    margin-right: 75%;
+    margin-right: 60%;
     text-align: center;
     color:whitesmoke;
 }
